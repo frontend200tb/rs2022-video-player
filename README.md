@@ -4,4 +4,4 @@
 
 HTML, CSS, Javascript
 
-https://frontend200tb.github.io/video-player/
+https://frontend200tb.github.io/rs2022-video-player/
